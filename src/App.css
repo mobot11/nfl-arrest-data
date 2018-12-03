@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.recharts-responsive-container {
+  margin: 0 auto;
+}
+
+.recharts-wrapper {
+  margin: 0 auto;
+}
+
+.chart-title {
+  margin-bottom: 0;
+}
